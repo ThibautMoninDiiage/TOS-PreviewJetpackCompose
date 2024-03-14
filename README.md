@@ -1,6 +1,6 @@
 # TOS-PreviewJetpackCompose
 
-Lorsque vous utilisez des composants Jetpack Compose, vous avez la possibilité d'utiliser l'annotations ```@Preview()``` afin de prévisualiser le rendu de votre composant avant de lancer l'application et ainsi définir votre composant rapidement.
+Lorsque vous utilisez des composants Jetpack Compose, vous avez la possibilité d'utiliser l'annotation ```@Preview()``` afin de prévisualiser le rendu de votre composant avant de lancer l'application et ainsi définir votre composant rapidement.
 
 ```kotlin
 package com.example.magellangpt.ui.screens.conversation
